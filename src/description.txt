@@ -1,1 +1,17 @@
 Sample Description of git commands
+
+git clone <url>
+
+git status 
+
+git checkout -[option]
+
+git pull
+
+git push
+
+git commit
+
+git add
+
+
